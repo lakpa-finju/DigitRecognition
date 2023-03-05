@@ -7,5 +7,5 @@ On this project, I have applied my knowledge of Neural Network and Tensorflow. I
 ![snapshots](/snapshots/digitrecognition3.png | width=250)
 -->
 <img src="/snapshots/digitrecognition1.png" > 
+<img src="/snapshots/digitrecognition3.png" height="1020px" width="1613px"/> 
 <img src="/snapshots/digitrecognition2.png" height="500" width="500"/> 
-<img src="/snapshots/digitrecognition3.png" height="500" width="500"/> 
